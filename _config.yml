@@ -1,5 +1,24 @@
-title: Slyme's Figura Wiki
+title: Figura Wiki
 description: A site containing information about the Figura rewrite
 theme: just-the-docs
 
 url: https://www.slyme.cf/Figura-Wiki
+
+logo: "https://github.com/Slymeball/Figura-Wiki/blob/main/images/icon.png?raw=true"
+
+aux_links:
+  "Figura Repo":
+    - "https://github.com/Kingdom-of-The-Moon/FiguraRewriteRewrite"
+  "Discord":
+    - "https://discord.gg/ekHGHcH8Af"
+  "Figura on Modrinth":
+    - "https://modrinth.org/mod/figura"
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/Slymeball/Figura-Wiki" # the github URL for your repo
+gh_edit_branch: "main"
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+color_scheme: dark
