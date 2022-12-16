@@ -2,6 +2,7 @@
 layout: default
 title: Making an Empty Avatar
 parent: Creating an Avatar
+nav_order: 1
 ---
 
 # Making an Empty Avatar

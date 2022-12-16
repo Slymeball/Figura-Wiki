@@ -2,6 +2,7 @@
 layout: default
 title: Settings
 parent: The Figura Panel
+nav_order: 3
 ---
 
 # Settings

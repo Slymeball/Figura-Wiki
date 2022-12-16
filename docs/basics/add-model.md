@@ -2,6 +2,7 @@
 layout: default
 title: Adding a Model
 parent: Creating an Avatar
+nav_order: 2
 ---
 
 # Adding a Model

@@ -2,6 +2,7 @@
 layout: default
 title: Trust Menu
 parent: The Figura Panel
+nav_order: 2
 ---
 
 # Trust Menu

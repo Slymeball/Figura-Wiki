@@ -2,6 +2,7 @@
 layout: default
 title: The Wardrobe
 parent: The Figura Panel
+nav_order: 1
 ---
 
 # The Wardrobe

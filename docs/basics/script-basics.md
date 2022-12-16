@@ -2,6 +2,7 @@
 layout: default
 title: The Basics of Scripting
 parent: Creating an Avatar
+nav_order: 3
 ---
 
 # The Basics of Scripting
