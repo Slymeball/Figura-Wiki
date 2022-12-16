@@ -1,6 +1,6 @@
 ---
-layout: Settings
-title: Modifying the Nameplates
+layout: default
+title: Settings
 parent: The Figura Panel
 ---
 
