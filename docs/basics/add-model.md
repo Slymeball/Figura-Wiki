@@ -4,7 +4,7 @@ title: Adding a Model
 parent: Creating an Avatar
 ---
 
-{: .important-title}
+{: .important-title }
 > Series
 > 
 > This page is in a series with others. Before starting, please make sure you...

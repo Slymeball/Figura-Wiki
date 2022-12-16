@@ -4,7 +4,7 @@ title: Modifying the Nameplates
 parent: Scripting Tutorials
 ---
 
-{: .important-title}
+{: .important-title }
 > Prerequisites
 > 
 > Before starting with this tutorial, please make sure you...

@@ -4,7 +4,7 @@ title: Making an Empty Avatar
 parent: Creating an Avatar
 ---
 
-{: .important-title}
+{: .important-title }
 > Series
 > 
 > This page is the first in a series with others.
