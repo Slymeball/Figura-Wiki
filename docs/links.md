@@ -1,3 +1,9 @@
+---
+layout: default
+title: Official and Unofficial Links
+nav_order: 3
+---
+
 ## Mod Pages
 
 - CurseForge: <https://curseforge.com/minecraft/mc-mods/figura/files/all>

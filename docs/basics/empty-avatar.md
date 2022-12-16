@@ -1,6 +1,11 @@
-> ~~First in Series~~ // [Adding a Model ⏭️](https://github.com/Slymeball/figura-wiki/wiki/Adding-a-Model)
+---
+layout: default
+title: Making an Empty Avatar
+---
 
-> 🔢 **Series**  
+{: .important-title}
+> Series
+> 
 > This page is the first in a series with others.
 
 ## Installing Fabric Mod Loader

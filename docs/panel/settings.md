@@ -1,3 +1,8 @@
+---
+layout: Settings
+title: Modifying the Nameplates
+---
+
 ## Nameplate
 
 - Enable Self Nameplate [bool] shows your own nameplate in third person and the paper doll.

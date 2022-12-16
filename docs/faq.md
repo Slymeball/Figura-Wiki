@@ -1,3 +1,9 @@
+---
+layout: default
+title: Figura FAQ
+nav_order: 2
+---
+
 # The Unofficial (Rewritten) Figura FAQ
 
 > **:information_source: Note**  

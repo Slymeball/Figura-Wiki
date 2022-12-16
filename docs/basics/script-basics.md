@@ -1,6 +1,11 @@
-> [⏮️ Adding a Model](https://github.com/Slymeball/figura-wiki/wiki/Adding-a-Model) // ~~Last in Series~~
+---
+layout: default
+title: The Basics of Scripting
+---
 
-> 🔢 **Series**  
+{: .important-title}
+> Series
+> 
 > This page is in a series with others. Before starting, please make sure you...
 > 
 > - Install the Figura mod.

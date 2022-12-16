@@ -1,3 +1,8 @@
+---
+layout: default
+title: Trust Menu
+---
+
 # Quick Access
 
 The trust menu is where the limits on each avatar is set.

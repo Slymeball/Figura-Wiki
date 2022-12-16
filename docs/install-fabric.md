@@ -1,3 +1,9 @@
+---
+layout: default
+title: Installing Fabric
+nav_order: 4
+---
+
 ## Table of Contents
 
 - [Minecraft Launcher](#minecraft-launcher-)
