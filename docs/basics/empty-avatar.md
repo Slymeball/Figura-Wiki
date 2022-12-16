@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Making an Empty Avatar
+parent: Creating an Avatar
 ---
 
 {: .important-title}

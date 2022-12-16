@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Adding a Model
+parent: Creating an Avatar
 ---
 
 {: .important-title}

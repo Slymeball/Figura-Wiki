@@ -1,6 +1,7 @@
 ---
 layout: Settings
 title: Modifying the Nameplates
+parent: The Figura Panel
 ---
 
 ## Nameplate

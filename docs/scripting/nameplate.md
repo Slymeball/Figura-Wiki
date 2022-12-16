@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Modifying the Nameplates
+parent: Scripting Tutorials
 ---
 
 {: .important-title}

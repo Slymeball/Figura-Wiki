@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Wardrobe
+parent: The Figura Panel
 ---
 
 The wardrobe is where Figura users will select which avatar they want to be seen as, manage the avatar on the backend, and edit settings concerning their avatar.

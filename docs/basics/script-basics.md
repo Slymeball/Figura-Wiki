@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Basics of Scripting
+parent: Creating an Avatar
 ---
 
 {: .important-title}
