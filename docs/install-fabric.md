@@ -4,14 +4,16 @@ title: Installing Fabric
 nav_order: 4
 ---
 
-## Table of Contents
+# Installing Fabric
+{: .no_toc }
 
-- [Minecraft Launcher](#minecraft-launcher-)
-- [MultiMC](#multimc-)
-- [Prism Launcher](#prism-launcher-)
-- [GDLauncher](#gdlauncher-)
-- [ATLauncher](#atlauncher-)
-- [CurseForge](#curseforge-)
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Minecraft Launcher [[![](https://github.com/Slymeball/figura-wiki/blob/main/images/icons/download.png?raw=true)]](https://minecraft.net/en-us/download)
 

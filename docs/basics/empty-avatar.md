@@ -4,6 +4,17 @@ title: Making an Empty Avatar
 parent: Creating an Avatar
 ---
 
+# Making an Empty Avatar
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 {: .important-title }
 > Series
 > 
@@ -61,6 +72,7 @@ Go into this folder and create a new text file. Rename it to `avatar.json` and m
 ```
 
 ###### Source provided by Fran, thanks!
+{: .no_toc }
 
 Name and authors will show up in the Figura menu, color will change the color of your mark, and version doesn't do anything as of this page's creation.
 
@@ -69,5 +81,3 @@ Now, check your Figura menu by entering a world or server, pausing the game, and
 ![A picture of a cursor hovering over the Figura menu's button in Minecraft.](https://u.cubeupload.com/Letters_7/Screenshotfrom202207.png)
 
 Now you should be able to find your avatar in the avatar picker.
-
-> ~~First in Series~~ // [Adding a Model ⏭️](https://github.com/Slymeball/figura-wiki/wiki/Adding-a-Model)

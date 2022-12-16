@@ -4,6 +4,17 @@ title: Official and Unofficial Links
 nav_order: 3
 ---
 
+# Official and Unofficial Links
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Mod Pages
 
 - CurseForge: <https://curseforge.com/minecraft/mc-mods/figura/files/all>
@@ -20,7 +31,7 @@ nav_order: 3
 > :warning: **Warning**  
 > Being unofficial means that these sites, series, etc. are not moderated in any way by the Moonlight development team, and are created by people outside of it. **DO NOT** ask official staff about any of the following resources. 
 
-- Slyme's Figura FAQ (you are here): <https://github.com/Slymeball/figura-faq/wiki>
+- Slyme's Figura FAQ (you are here): <https://www.slyme.cf/Figura-Wiki>
 - applejuice's Figura Rewrite Docs: <https://applejuiceyy.github.io/figs>
     - Although this resource is unofficial, it *does* use the documentation from in-game.
 - Chloe's Rewrite Tutorial: <https://www.youtube.com/playlist?list=PLNz7v2g2SFA8lOQUDS4z4-gIDLi_dWAhl>

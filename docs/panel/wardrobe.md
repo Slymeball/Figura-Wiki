@@ -4,6 +4,17 @@ title: The Wardrobe
 parent: The Figura Panel
 ---
 
+# The Wardrobe
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 The wardrobe is where Figura users will select which avatar they want to be seen as, manage the avatar on the backend, and edit settings concerning their avatar.
 
 ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/panel/wardrobe.png?raw=true)

@@ -4,6 +4,17 @@ title: The Basics of Scripting
 parent: Creating an Avatar
 ---
 
+# The Basics of Scripting
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 {: .important-title }
 > Series
 > 
@@ -134,6 +145,5 @@ increaseNumber(13)
 
 That's it for the basics! I hope you learned something useful from that.
 
-###### Big thanks to GrandpaScout for noticing some flaws and then immediately going to general. Very helpful, next time please DM me.
-
-> [⏮️ Adding a Model](https://github.com/Slymeball/figura-wiki/wiki/Adding-a-Model) // ~~Last in Series~~
+###### Big thanks to GrandpaScout for noticing some flaws and then immediately going to #general. Very helpful, next time please DM me.
+{: .no_toc }

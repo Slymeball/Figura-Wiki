@@ -4,6 +4,17 @@ title: Trust Menu
 parent: The Figura Panel
 ---
 
+# Trust Menu
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Quick Access
 
 The trust menu is where the limits on each avatar is set.

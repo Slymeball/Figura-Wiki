@@ -4,6 +4,17 @@ title: Adding a Model
 parent: Creating an Avatar
 ---
 
+# Adding a Model
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 {: .important-title }
 > Series
 > 

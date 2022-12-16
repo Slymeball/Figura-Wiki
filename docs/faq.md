@@ -5,6 +5,15 @@ nav_order: 2
 ---
 
 # The Unofficial (Rewritten) Figura FAQ
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 {: .note }
 > This FAQ only features questions and answers relating to the rewrite of Figura.

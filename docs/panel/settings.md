@@ -4,6 +4,17 @@ title: Settings
 parent: The Figura Panel
 ---
 
+# Settings
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Nameplate
 
 - Enable Self Nameplate [bool] shows your own nameplate in third person and the paper doll.
@@ -53,7 +64,7 @@ parent: The Figura Panel
 
 ## Dev
 
-> :warning: **WARNING**  
+{: .warning }
 > The following options are experimental and should be used with caution. In case of error, reset an option.
 
 - Backend Connection Toasts [bool] shows a toast whenever you are connected/disconnected from the backend.
