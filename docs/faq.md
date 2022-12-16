@@ -6,7 +6,7 @@ nav_order: 2
 
 # The Unofficial (Rewritten) Figura FAQ
 
-> **:information_source: Note**  
+{: .note }
 > This FAQ only features questions and answers relating to the rewrite of Figura.
 
 ## General Questions
@@ -133,6 +133,6 @@ A community member with the name applejuice has an online webpage that delivers 
 
 ### How can I get support?
 
-You can ask a question at any time through the [#:grey_question:丨figura-hellp Forum](https://discord.com/channels/805969743466332191/1019675294237466734) (yes, it is spelt hellp) in the [Discord server](https://discord.gg/ekHGHcH8Af). People are usually on stand-by and can help you with any issue you have.
+You can ask a question at any time through the [#❔️丨figura-hellp Forum](https://discord.com/channels/805969743466332191/1019675294237466734) (yes, it is spelt hellp) in the [Discord server](https://discord.gg/ekHGHcH8Af). People are usually on stand-by and can help you with any issue you have.
 
 Alternatively, you can request an avatar, script, model, or texture using the [#💌丨avatar-requests](https://discord.com/channels/805969743466332191/880450932247261215) channel. People fill requests out of their own free time and will, so please do not rush them and please be grateful of their work. 
