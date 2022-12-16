@@ -25,12 +25,12 @@ nav_order: 1
 
 If you do not already have a Fabric install available, make sure to get one from <https://fabricmc.net/use>. Please check the following links for more information.
 
-- [Minecraft Launcher](https://github.com/Slymeball/figura-wiki/wiki/How-to-Install-Fabric#minecraft-launcher)
-- [MultiMC](https://github.com/Slymeball/figura-wiki/wiki/How-to-Install-Fabric#multimc)
-- [Prism Launcher / PolyMC](https://github.com/Slymeball/figura-wiki/wiki/How-to-Install-Fabric#prism-launcher---polymc)
-- [GDLauncher](https://github.com/Slymeball/figura-wiki/wiki/How-to-Install-Fabric#gdlauncher)
-- [ATLauncher](https://github.com/Slymeball/figura-wiki/wiki/How-to-Install-Fabric#atlauncher)
-- [CurseForge](https://github.com/Slymeball/figura-wiki/wiki/How-to-Install-Fabric#curseforge)
+- [Minecraft Launcher](/Figura-Wiki/docs/install-fabric.html#minecraft-launcher)
+- [MultiMC](/Figura-Wiki/docs/install-fabric.html#multimc)
+- [Prism Launcher / PolyMC](/Figura-Wiki/docs/install-fabric.html#prism-launcher---polymc)
+- [GDLauncher](/Figura-Wiki/docs/install-fabric.html#gdlauncher)
+- [ATLauncher](/Figura-Wiki/docs/install-fabric.html#atlauncher)
+- [CurseForge](/Figura-Wiki/docs/install-fabric.html#curseforge)
 
 ## Installing Figura
 

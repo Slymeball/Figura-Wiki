@@ -40,4 +40,4 @@ If you do not know how to use Blockbench, there is a tutorial on how to use it o
 
 Now that you have your model, save it in the same folder as your `avatar.json`. Check back in-game and see if you now have the model applied to yourself.
 
-If you see that your vanilla skin is phasing in and out with your avatar, do not worry. This is because the vanilla model was never disabled. Please check [this FAQ page](https://github.com/Slymeball/figura-wiki/wiki/FAQ-(Full)#how-do-i-hide-the-player-model) for more information.
+If you see that your vanilla skin is phasing in and out with your avatar, do not worry. This is because the vanilla model was never disabled. Please check [this FAQ page](/Figura-Wiki/docs/faq.html#how-do-i-hide-the-player-model) for more information.
