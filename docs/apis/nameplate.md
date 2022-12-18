@@ -39,8 +39,6 @@ Every nameplate shown above.
 
 Sets the text of the nameplate selected. JSON text can be used here, and so can newlines in `ENTITY` nameplates. Newlines added in `LIST` and `CHAT` will be replaced with spaces. When the argument is `nil`, the selected nameplate will be reverted to the server's default.
 
-Returns `nil`.
-
 ### `:getText()`
 
 Gets the current text of the selected nameplate. Returns a string if set and `nil` if not.
@@ -55,8 +53,6 @@ Sets the position of the `ENTITY` nameplate. If ran from any other nameplate, yo
 
 Alternatively, you can use `(number, number, number)` as an XYZ pair.
 
-Returns `nil`.
-
 ### `:getPos()`
 
 Returns the current position of the `ENTITY` nameplate as a `vec3` or `nil` if not set. If ran from any other nameplate, your script will error with "attempt to call a nil value."
@@ -68,8 +64,6 @@ Returns vec3 or `nil`
 Sets the scale of the `ENTITY` nameplate. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
 Alternatively, you can use `(number, number, number)` as an XYZ pair.
-
-Returns `nil`.
 
 ### `:getScle()`
 
@@ -86,8 +80,6 @@ There are many other ways to represent a BG color, including...
 - `(vec3, number)` - {R, G, B}, a
 - `(number, number, number)` - R, G, B
 - `(number, number, number, number)` - R, G, B, a
-
-Returns `nil`.
 
 ### `:visible` (Editable)
 
