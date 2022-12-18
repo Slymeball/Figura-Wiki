@@ -33,7 +33,7 @@ The nameplate shown in chat messages and mentions.
 
 Every nameplate shown above.
 
-## Calls
+## Common Calls
 
 ### `:setText(string)`
 
@@ -47,7 +47,9 @@ Gets the current text of the selected nameplate. Returns a string if set and `ni
 
 Returns string or `nil`.
 
-#### `:setPos(vec3)`
+## `ENTITY` Calls
+
+### `:setPos(vec3)`
 
 Sets the position of the `ENTITY` nameplate. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
@@ -55,15 +57,13 @@ Alternatively, you can use `(number, number, number)` as an XYZ pair.
 
 Returns `nil`.
 
-### `ENTITY` Exclusive
-
-#### `:getPos()`
+### `:getPos()`
 
 Returns the current position of the `ENTITY` nameplate as a `vec3` or `nil` if not set. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
 Returns vec3 or `nil`
 
-#### `:setScale(vec3)`
+### `:setScale(vec3)`
 
 Sets the scale of the `ENTITY` nameplate. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
@@ -71,13 +71,13 @@ Alternatively, you can use `(number, number, number)` as an XYZ pair.
 
 Returns `nil`.
 
-#### `:getScle()`
+### `:getScle()`
 
 Returns the current scale of the `ENTITY` nameplate as a `vec3` or `nil` if not set. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
 Returns vec3 or `nil`
 
-#### `:setBackgroundColor(vec4)`
+### `:setBackgroundColor(vec4)`
 
 Sets the background color and opacity of the `ENTITY` nameplate. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
@@ -89,19 +89,19 @@ There are many other ways to represent a BG color, including...
 
 Returns `nil`.
 
-#### `:visible` (Editable)
+### `:visible` (Editable)
 
 Returns the visibility of the `ENTITY` nameplate. Instead of passing a variable through parentheses, this must be set like a variable. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
 Returns boolean.
 
-#### `:outline` (Editable)
+### `:outline` (Editable)
 
 Returns the visibility of an outline surrounding the text of the `ENTITY` nameplate. Instead of passing a variable through parentheses, this must be set like a variable. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
 Returns boolean.
 
-#### `:shadow` (Editable)
+### `:shadow` (Editable)
 
 Returns the visibility of a shadow behind the text of the `ENTITY` nameplate. Instead of passing a variable through parentheses, this must be set like a variable. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
