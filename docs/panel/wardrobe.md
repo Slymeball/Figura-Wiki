@@ -20,8 +20,10 @@ The wardrobe is where Figura users will select which avatar they want to be seen
 
 ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/panel/wardrobe.png?raw=true)
 
-## Red - Open `avatars` folder
-This button only has one function, and it is to open the `.minecraft/figura/avatars` folder using your default file browser.
+## Red - Avatar Management
+- ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/new_avatar.png?raw=true) The New Avatar button opens the avatar wizard, which will be added in a later update.
+- ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/unselect.png?raw=true) The Unselect button hides your avatar, either local or from backend.
+- ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/folder.png?raw=true) The Open Avatars Folder button opens the `.minecraft/figura/avatars` folder using your default file browser.
 
 ## Orange - Avatar Selection
 Shows a list of all selectable avatars and allows you to select an avatar from the list. Doing so ***will not*** automatically upload it to the backend.
@@ -34,7 +36,7 @@ Shows the currently selected or uploaded avatar. You can rotate the camera by le
 ## Green - Status
 Shows indicators for avatar size, texture, script, and backend. Hovering over these indicators will give you more information.
 
-## Teal - Backend Buttons
+## Teal - Backend Management
 Allows users to upload, reload, and delete their avatars from the backend.
 
 - ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/upload.png?raw=true) The Upload Avatar button uploads your avatar to the backend for everyone to see.
@@ -42,7 +44,7 @@ Allows users to upload, reload, and delete their avatars from the backend.
 - ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/delete.png?raw=true) The Delete Avatar button removes your avatar from the backend.
 
 ## Blue - Avatar-Specific Buttons
-See avatar-specific menus.
+See avatar-specific menus and the official wiki.
 
 - ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/wiki.png?raw=true) The Help Page button opens the official Figura wiki at <https://github.com/Kingdom-Of-The-Moon/FiguraRewriteRewrite/wiki/>.
 - ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/sounds.png?raw=true) The Sounds button allows you to view and play the custom sounds attached with the avatar.
@@ -56,8 +58,11 @@ Displays information about the avatar, including...
 - Size: The storage used to make the avatar.
 - Complexity: The amount of faces used to make the model. Each cube is 6 complexity.
 
-## Pink - Figura Version
+## Magenta - Figura Version
 Displays the Figura and Minecraft version the client is running.
+
+## Pink - Tabs
+Picks the currently open menu tab.
 
 ## Unpictured - Context Menu
 Allows you to open or copy the path of your avatar. Right click to access.
