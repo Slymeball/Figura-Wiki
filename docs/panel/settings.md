@@ -46,6 +46,7 @@ nav_order: 3
 - Figura Inventory [bool] toggles between Minecraft and Figura's paper doll rendering.
 - Toast Length [float] controls how long a Figura toast is on screen.
 - Long Toast Swap [float] controls the delay until the text in a Figura toast is swapped.
+- Wardrobe File Names [bool] makes the wardrobe use file names over avatar names.
 
 ## Paperdoll
 
@@ -59,8 +60,11 @@ nav_order: 3
 - Popup Menu [key] picks which keybind should be used for the popup menu.
 - Reload Avatar [key] picks which keybind should reload the local avatar.
 - Panic Button [key] picks which keybind should stop rendering all Figura avatars.
+- Wardrobe Button [key] picks which keybind should open the wardrobe.
 - Menu Button Location [dropdown] chooses where the button for the Figura panel should be.
 - Update Type [dropdown] chooses which update channel should be used for warning the user about a new version.
+- Default Trust Level [dropdown] picks which trust level new players will use.
+- Chat Emojis [bool] allows Figura to parse messages for emojis registered within Figura.
 - Enable Easter Eggs [bool] allows all easter eggs in Figura to be used.
 
 ## Dev
@@ -70,9 +74,12 @@ nav_order: 3
 
 - Backend Connection Toasts [bool] shows a toast whenever you are connected/disconnected from the backend.
 - Render Parts Pivot [dropdown] picks which pivots should be visible when viewing hitboxes.
+- First Person Matrices [bool] toggles the ability for model matrices to change while in first person.
 - Log non-host scripts [bool] toggles whether logs and errors on other avatars should be printed to your logs.
 - Log Pings [dropdown] toggles whether and where logs of pings should be shown.
 - Sync Pings [bool] toggles whether pings should only be executed if recieved from the backend.
-- Chat Messages [bool] toggles whether sending chat messages can be sent from avatar scripts. :warning: Messages sent with Figura will still be signed and can still be reported to Mojang.
+- Chat Messages [bool] toggles whether sending chat messages can be sent from avatar scripts.[^1]
 - Figura Folder Location [string] gives the path to where the Figura folder is.
 - Auth Server/Backend IP [string] gives the addresses for both the authentication server and backend.
+
+[^1]: Messages sent with Figura will still be signed and can still be reported to Mojang.
