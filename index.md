@@ -9,7 +9,7 @@ nav_order: 1
 
 This wiki details the ins and outs of the [Figura Rewrite](https://github.com/Kingdom-of-The-Moon/FiguraRewriteRewrite).
 
-{: .note}
+{: .note }
 > This wiki is not affiliated with Moonlight nor the developers behind it. I am just a community member who noticed the lack of a wiki and made one.
 
 This wiki is constantly updated, so please contact me if there is an issue concerning the wiki through my DMs (@Slyme#2894 on Discord, @Slyme on Revolt) or the [issues page](https://github.com/Slymeball/Figura-Wiki/issues).

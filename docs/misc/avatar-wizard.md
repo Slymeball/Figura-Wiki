@@ -15,6 +15,9 @@ parent: Miscellaneous Pages
 
 ---
 
+{: .note }
+> This feature is not finalized, and may change at any time. This page will be updated when the pre-release containing this feature comes out.
+
 ## The Start
 
 The Avatar Wizard (sometimes known as the avatar creator) allows beginners to easily create an avatar with templates and an easy way to fill in metadata. As fields are ticked or filled, more options will appear.

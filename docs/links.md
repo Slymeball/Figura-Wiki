@@ -28,7 +28,7 @@ nav_order: 3
 
 ## Unofficial Links
 
-> :warning: **Warning**  
+{: .warning }
 > Being unofficial means that these sites, series, etc. are not moderated in any way by the Moonlight development team, and are created by people outside of it. **DO NOT** ask official staff about any of the following resources. 
 
 - Slyme's Figura FAQ (you are here): <https://www.slyme.cf/Figura-Wiki>
