@@ -41,5 +41,5 @@ callouts:
     color: red
 
 nav_external_links:
-  - title: '<i class="fa-solid fa-circle-left"></i> Back to slyme.cf'
+  - title: 'Back to slyme.cf'
     url: https://www.slyme.cf
