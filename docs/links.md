@@ -37,4 +37,4 @@ nav_order: 3
 - Chloe's Rewrite Tutorial: <https://www.youtube.com/playlist?list=PLNz7v2g2SFA8lOQUDS4z4-gIDLi_dWAhl>
     - Okay, technically this is created by the admin of the Moonlight Discord server, but it is still unofficial in the same way that a patch to a program issued by a single Microsoft developer wouldn't be considered something endorsed by Microsoft.
 - Manuel_'s VSCode Extension: <https://marketplace.visualstudio.com/items?itemName=Manuel-Underscore.figura>
-- Also Manuel_'s Lua and Figura guide: <https://manuel-3.github.io/lua-quickstart>&fquestioning if your power is too much.
+- Also Manuel_'s Lua and Figura guide: <https://manuel-3.github.io/lua-quickstart>
