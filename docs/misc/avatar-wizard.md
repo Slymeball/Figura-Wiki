@@ -15,6 +15,8 @@ parent: Miscellaneous Pages
 
 ---
 
+## The Start
+
 The Avatar Wizard (sometimes known as the avatar creator) allows beginners to easily create an avatar with templates and an easy way to fill in metadata. As fields are ticked or filled, more options will appear.
 
 ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/panel/wizard/blank.png?raw=true)
@@ -25,6 +27,8 @@ The **Name** is what your avatar will show as its name in the wardrobe list[^1],
 
 ---
 
+## The Rest of The Options
+
 After the name of the avatar is filled, the author, model, and script options unlock.
 
 ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/panel/wizard/name.png?raw=true)
@@ -32,6 +36,8 @@ After the name of the avatar is filled, the author, model, and script options un
 The **Author** field shows in the avatar information and shows who created the avatar. This is equivalent to the `author`/`authors` tag in the `avatar.json` file.
 
 ---
+
+## Including a Model
 
 The **Include a Model** option will generate a model from the templates you pick in the toggles that appear.
 
@@ -50,6 +56,8 @@ The **Include a Model** option will generate a model from the templates you pick
 - **Parrots Pivot** adds bones for both parrot pivots.
 
 ---
+
+## Including a Script
 
 The **Include a Script** option will generate a script from the templates you pick in the toggles that appear.
 
