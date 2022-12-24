@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: default
 title: Adding Model Animations
 parent: Scripting Tutorials
----
+--- -->
 
 # Adding Model Animations
 {: .no_toc }
@@ -14,15 +14,6 @@ parent: Scripting Tutorials
 {:toc}
 
 ---
-
-{: .important-title }
-> Prerequisites
-> 
-> Before starting with this tutorial, please make sure you...
->
-> - Can [make a model](https://github.com/Slymeball/Figura-Wiki/wiki/Adding-a-Model)
-> - Know [the basics of scripting](https://github.com/Slymeball/figura-wiki/wiki/The-Basics-of-Scripting)
-> - Can [manage models with scripts](https://github.com/Slymeball/Figura-Wiki/wiki/Page-Coming-Soon)
 
 Making custom animations can be a great way to give new life to your avatar.
 
@@ -44,3 +35,4 @@ If you go back in game and reload your avatar, you'll see that it immediately pl
 
 ## Playing on Keybind
 
+To make our avatar animate on a keybind, we must first set a keybind up.
