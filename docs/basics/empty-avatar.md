@@ -16,11 +16,6 @@ nav_order: 1
 
 ---
 
-{: .important-title }
-> Series
-> 
-> This page is the first in a series with others.
-
 ## Installing Fabric Mod Loader
 
 If you do not already have a Fabric install available, make sure to get one from <https://fabricmc.net/use>. Please check the following links for more information.

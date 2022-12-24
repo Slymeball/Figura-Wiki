@@ -15,13 +15,6 @@ parent: Scripting Tutorials
 
 ---
 
-{: .important-title }
-> Prerequisites
-> 
-> Before starting with this tutorial, please make sure you...
->
-> - Know the basics of scripting
-
 If you want to do something somewhat cool with your avatar, customizing your nameplates may be the way to go. Your nameplates include the name shown above your head, in the tablist, and in chat.
 
 ## Setting Text

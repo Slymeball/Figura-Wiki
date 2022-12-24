@@ -16,15 +16,6 @@ nav_order: 3
 
 ---
 
-{: .important-title }
-> Series
-> 
-> This page is in a series with others. Before starting, please make sure you...
-> 
-> - Install the Figura mod.
-> - Create an empty avatar.
-> - Download Blockbench.
-> - Add a model to your avatar.
 
 The last great thing every avatar should have is a script. Figura uses the Lua programming language to script things that should happen in your avatar, ranging from animations to nameplate modification to a wheel that makes player-controlled function calling much easier.
 

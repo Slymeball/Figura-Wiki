@@ -16,14 +16,6 @@ nav_order: 2
 
 ---
 
-{: .important-title }
-> Series
-> 
-> This page is in a series with others. Before starting, please make sure you...
-> 
-> - Install the Figura mod.
-> - Create an empty avatar.
-
 Now that you've created an empty Figura avatar, you may be wondering "what do I do with this?" The first step is adding your own custom model, whether it's an addition to the vanilla model or a whole new one.
 
 ## Installing Blockbench
