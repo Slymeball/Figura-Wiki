@@ -123,18 +123,18 @@ Figura also allows you to modify the physical attributes of the entity's namepla
 | --- | --- | --- |
 | ![](https://github.com/Slymeball/Figura-Wiki/blob/main/images/nameplate/setScale-2-1-1.png?raw=true) | ![](https://github.com/Slymeball/Figura-Wiki/blob/main/images/nameplate/setScale-1-2-1.png?raw=true) | ![](https://github.com/Slymeball/Figura-Wiki/blob/main/images/nameplate/setScale-1-1-2.png?raw=true)
 
-### `nameplate.ENTITY.visible` (Editable, `bool`)
+### `nameplate.ENTITY:setVisible(bool)`
 
 `visible` determines whether a nameplate should be rendered. This variable should be set like one would a normal variable.
 
-### `nameplate.ENTITY.setBackgroundColor(vec3/vec4)`
+### `nameplate.ENTITY:setBackgroundColor(vec3/vec4)`
 
 `setBackgroundColor` changes the color of the background behind the text based on the vector supplied. The vector represents an RGB value, with an optional alpha value at the end.
 
-### `nameplate.ENTITY.shadow` (Editable, `bool`)
+### `nameplate.ENTITY:setShadow(bool)`
 
 `shadow` determines whether a nameplate should render a shadow behind the text. `shadow` is incompatible with `outline`. This variable should be set like one would a normal variable.
 
-### `nameplate.ENTITY.outline` (Editable, `bool`)
+### `nameplate.ENTITY:setOutline(bool)`
 
 `outline` determines whether a nameplate should render an outline surrounding the text, much like a glowing sign would. `outline` is incompatible with `shadow`. This variable should be set like one would a normal variable.

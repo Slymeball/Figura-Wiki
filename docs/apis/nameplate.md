@@ -71,7 +71,7 @@ Returns the current scale of the `ENTITY` nameplate as a `vec3` or `nil` if not 
 
 Returns vec3 or `nil`
 
-### `:setBackgroundColor(vec4)`
+### `:setBackgroundColor(vec3/vec4)`
 
 Sets the background color and opacity of the `ENTITY` nameplate. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
@@ -81,19 +81,19 @@ There are many other ways to represent a BG color, including...
 - `(number, number, number)` - R, G, B
 - `(number, number, number, number)` - R, G, B, a
 
-### `:visible` (Editable)
+### `:setVisible(bool)`
 
 Returns the visibility of the `ENTITY` nameplate. Instead of passing a variable through parentheses, this must be set like a variable. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
 Returns boolean.
 
-### `:outline` (Editable)
+### `:setOutline(bool)`
 
 Returns the visibility of an outline surrounding the text of the `ENTITY` nameplate. Instead of passing a variable through parentheses, this must be set like a variable. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
 Returns boolean.
 
-### `:shadow` (Editable)
+### `:setShadow(bool)`
 
 Returns the visibility of a shadow behind the text of the `ENTITY` nameplate. Instead of passing a variable through parentheses, this must be set like a variable. If ran from any other nameplate, your script will error with "attempt to call a nil value."
 
