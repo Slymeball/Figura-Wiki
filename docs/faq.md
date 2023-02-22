@@ -144,4 +144,4 @@ A community member with the name applejuice has an online webpage that delivers 
 
 You can ask a question at any time through the [#❔️丨figura-hellp Forum](https://discord.com/channels/805969743466332191/1019675294237466734) (yes, it is spelt hellp) in the [Discord server](https://discord.gg/ekHGHcH8Af). People are usually on stand-by and can help you with any issue you have.
 
-Alternatively, you can request an avatar, script, model, or texture using the [#💌丨avatar-requests](https://discord.com/channels/805969743466332191/880450932247261215) channel. People fill requests out of their own free time and will, so please do not rush them and please be grateful of their work. 
+Alternatively, you can request an avatar, script, model, or texture using the [#💌丨commissioners](https://discord.com/channels/805969743466332191/1076400440465432676) channel. People offer their services in this channel either out of their own free will or out of monetary gain, so please be kind.
