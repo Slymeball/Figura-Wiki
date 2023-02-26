@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Adding Model Animations
+title: Adding Model Animations and Keybinds
 parent: Scripting Tutorials
 ---
 
-# Adding Model Animations
+# Adding Model Animations and Keybinds
 {: .no_toc }
 
 ## Table of contents
@@ -53,12 +53,12 @@ Now, returning to Minecraft, your avatar still doesn't animate on this keybind. 
 
 ## Animating on Keybind
 
-The code above doesn't tell Figura to play your animation once the keybind is pressed. To fix this, we'll go ahead place the animation call inside a function known as `animKey.onPress()`. This function's name will change depending on what you named your keybind variable, but the ending should always be `.onPress()`
+The code above doesn't tell Figura to play your animation once the keybind is pressed. To fix this, we'll go ahead place the animation call inside a function known as `animKey.press()`. This function's name will change depending on what you named your keybind variable, but the ending should always be `.press()`
 
 ```lua
 local animKey = keybinds:newKeybind("Play Animation", "key.keyboard.h")
 
-function animKey.onPress()
+function animKey.press()
     animations.main.wave:play()
 end
 ```
