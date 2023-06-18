@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Trust Menu
+title: Permission Menu
 parent: The Figura Panel
 nav_order: 2
 ---
 
-# Trust Menu
+# Permission Menu
 {: .no_toc }
 
 ## Table of contents
@@ -18,7 +18,7 @@ nav_order: 2
 
 # Quick Access
 
-The trust menu is where the limits on each avatar is set.
+The permission menu is where the limits on each avatar is set.
 
 ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/panel/trust.png?raw=true)
 
@@ -29,13 +29,13 @@ Filters the player list below.
 - ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/hide_offline.png?raw=true) Show/Hide Offline Players
 
 ## Orange - Player List
-From this, you can pick any player online (or offline) and move them up or down the trust list.
+From this, you can pick any player online (or offline) and move them up or down the permission list.
 
 ## Yellow - Avatar Preview
 Shows the currently selected player's avatar or a question mark if an offline player or group is selected. Middle clicking resets the pan and rotation of the preview.
 
-## Green - Trust Slider
-Selects the trust level for the selected player. In later versions of 0.1.0, you can also move players by holding a click on their left-side card.
+## Green - Permission Slider
+Selects the permission level for the selected player. In later versions of 0.1.0, you can also move players by holding a click on their left-side card.
 
 ## Teal - Reload All Avatars
 Clears the cache of all avatars and gets all avatars from the backend again.
@@ -43,8 +43,8 @@ Clears the cache of all avatars and gets all avatars from the backend again.
 ## Blue - Manage Permissions
 Allows the player to edit the specific limits on each player or group. See below for more information.
 
-## Unpictured - Context Menu
-Allows you to copy the name or UUID of a player, refresh, or change their trust. Right click a card to access.
+## Purple - Context Menu
+Allows you to copy the name or UUID of a player, reload their avatar, or change their permission level. Right click a player's card to access.
 
 # Permission Menu
 
