@@ -46,7 +46,7 @@ Allows users to upload, reload, and delete their avatars from the backend.
 ## Blue - Avatar-Specific Buttons
 See avatar-specific menus and the official wiki.
 
-- ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/wiki.png?raw=true) The Help Page button opens the official Figura wiki at <https://github.com/Kingdom-Of-The-Moon/FiguraRewriteRewrite/wiki/>.
+- ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/avatar_settings.png?raw=true) The Avatar Settings button is a planned feature that allows an avatar to offer settings in the Figura panel.
 - ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/sounds.png?raw=true) The Sounds button allows you to view and play the custom sounds attached with the avatar.
 - ![](https://github.com/Slymeball/figura-wiki/blob/main/images/figura/icons/keybinds.png?raw=true) The Upload Avatar button allows you to view and rebind the keybinds set by the avatar's scripts.
 
@@ -61,8 +61,5 @@ Displays information about the avatar, including...
 ## Magenta - Figura Version
 Displays the Figura and Minecraft version the client is running.
 
-## Pink - Tabs
-Picks the currently open menu tab.
-
 ## Unpictured - Context Menu
-Allows you to open or copy the path of your avatar. Right click to access.
+Allows you to favorite an avatar (puts it at the top of its folder and puts a star next to its name) and open or copy the path of your avatar. Right click to access.
