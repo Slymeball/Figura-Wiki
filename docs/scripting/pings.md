@@ -29,6 +29,8 @@ To make a function a ping function, just put `pings.` before the function's name
 function pings.sendLog(v)
     log(v)
 end
+
+pings.sendLog("Hello, World!")
 ```
 
 will send the log specified with `v` to all clients. Of course, this log will only show up if "Log non-host scripts" is set to true.
