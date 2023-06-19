@@ -59,8 +59,44 @@ The code above doesn't tell Figura to play your animation once the keybind is pr
 local animKey = keybinds:newKeybind("Play Animation", "key.keyboard.h")
 
 function animKey.press()
-    animations.main.wave:play()
+    animations.Example.Animation:play()
 end
 ```
 
-Returning to Minecraft for the final time during this tutorial and pressing your keybind key, you'll notice that your model starts animating.
+Returning to Minecraft and pressing your keybind key, you'll notice that your model starts animating.
+
+## Animating on Action Wheel
+
+Maybe you don't like taking up valuable keys on your keyboard and would rather use a quick to access and use GUI to trigger your animation. This is where the action wheel comes into play. Assuming that you already know how to set up an action wheel and an action inside of it, we'll continue on. If not, please wait for a tutorial.
+
+To make your action do something on left click, add an `:onLeftClick()` to your action and put a function inside containing your play instruction from earlier. It should look something like this:
+
+```lua
+wheel:newAction()
+    :title("Play Animation")
+    :onLeftClick(function()
+        animations.Example.Animation:play()
+    end)
+```
+
+We will continue on in the tutorial with the previous keybind example.
+
+## Pinging Your Animation
+
+However, you'll notice that others are unable to see your animation. This is because your keybind presses are not synced between all players. To do this, you'll need the help of ping functions. See [the tutorial for pings](https://www.slyme.xyz/Figura-Wiki/docs/scripting/pings.html) for more information.
+
+TL;DR: You can make a function a ping function by putting `pings.` before your function's name.
+
+Just make a new pinged function, put your animation call in it, and call the function in your keybind.
+
+```lua
+function pings.playAnimation()
+    animations.Example.Animation:play()
+end
+
+local animKey = keybinds:newKeybind("Play Animation", "key.keyboard.h")
+
+function animKey.press()
+    pings.playAnimation()
+end
+```
