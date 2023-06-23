@@ -7,3 +7,6 @@ permalink: /docs/apis
 ---
 
 # Scripting APIs
+
+{: .warning }
+> Scripting APIs is no longer being maintained. Please check out [FIGS!!!](https://applejuiceyy.github.io/figs/) instead.
