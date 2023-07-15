@@ -42,7 +42,7 @@ Open's [Figura's Github repository](https://github.com/Kingdom-of-The-Moon/Figur
 
 ## Blue - Ko-Fi
 
-Open's [Fran's Ko-Fi](https://ko-fi.com/francy_chan) in your default browser
+Open's a Ko-fi page for the second unknown developer in your default browser.
 
 ## Purple - Lua Version
 
