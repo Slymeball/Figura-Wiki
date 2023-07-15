@@ -52,7 +52,7 @@ Go into this folder and create a new text file. Rename it to `avatar.json` and m
 {
     "name": "Example Avatar",
     "authors": ["Author1", "Author2"],
-    "version": "0.1.0_rc-10",
+    "version": "0.1.0",
     "color": "#123456",
     "autoScripts": ["script1", "script2"],
     "customizations": {
