@@ -22,17 +22,17 @@ nav_order: 2
 
 ### Where can I download Figura?
 
-Turns out, it's been on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/figura/files/all) and [Modrinth](https://modrinth.com/mod/figura/versions) the whole time. You can also find it in the [Discord server](https://discord.gg/ekHGHcH8Af) and [GitHub Releases](https://github.com/Kingdom-of-The-Moon/FiguraRewriteRewrite/releases).
+Turns out, it's been on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/figura/files/all) and [Modrinth](https://modrinth.com/mod/figura/versions) the whole time. You can also find it in the [Discord server](https://discord.gg/figuramc) and [GitHub Releases](https://github.com/FiguraMC/Figura/releases).
 
 ### Where can I find avatars to download and use?
 
-To find full avatars, go to [#🎭丨avatar-showcase](https://discord.com/channels/805969743466332191/1047522975513063524) in the [Discord server](https://discord.gg/ekHGHcH8Af) and select the (![](https://github.com/Slymeball/figura-wiki/raw/main/images/figura/icons/upload.png?raw=true) download available) tag. Likewise, avatar parts (models, scripts, etc) can be found in [#📦丨assets-browser](https://discord.com/channels/805969743466332191/1049326144480104539). For avatars and scripts posted in the older channel-based system, you'll need to get the [Depreciated Access](https://discord.com/channels/805969743466332191/956623772352389120/970334572124450816) role from [#📖丨roles](https://discord.com/channels/805969743466332191/956623772352389120).
-
-A better way of finding Figura avatars is coming soon to the rewrite. This involves an avatar browser that can be accessed in-game.
+To find full avatars, go to [#🎭丨avatar-showcase](https://discord.com/channels/1129805506354085959/1129823434705227846) in the [Discord server](https://discord.gg/figuramc) and select the (![](https://github.com/Slymeball/figura-wiki/raw/main/images/figura/icons/upload.png?raw=true) download available) tag. Likewise, avatar parts (models, scripts, etc) can be found in [#📦丨assets-browser](https://discord.com/channels/1129805506354085959/1129823477235458192). If you're looking for avatars and assets older than July 15th that haven't been reposted, you probably won't see it ever again.
 
 ### Why isn't Optifine/Optifabric not working?
 
-Figura ***does not*** support Optifine due to its closed-source nature and overall uncompatable rendering engine. Instead, [try some alternatives](https://lambdaurora.dev/optifine_alternatives/).
+~~Figura ***does not*** support Optifine due to its closed-source nature and overall uncompatable rendering engine. Instead, [try some alternatives](https://lambdaurora.dev/optifine_alternatives/).~~
+
+Apparently, Figura supports Optifine and Optifabric now. Nice job, devteam! However, please still [try alternatives to Optifine](https://lambdaurora.dev/optifine_alternatives/). Even if Figura supports it, that doesn't mean other mods will be compatible.
 
 ## File System Questions
 
@@ -97,11 +97,13 @@ These tags have been removed from Figura for one reason or another.
 
 ## Modeling Questions
 
-<!-- todo: get toast's help with this, he seems like the kind of person who knows about modeling -->
+<!--| todo: get toast's help with this, he seems like the kind of person who knows about modeling
+    | edit oct. 10 2023: haha yeah no i don't think i'll be getting his help with this ever.
+-->
 
 ### How do I make my avatar glow?
 
-Although you cannot make your avatar use the [Glowing effect](https://minecraft.fandom.com/wiki/Glowing) using Figura, you *can* give it an emission texture.
+Although you cannot make your avatar use the [Glowing effect](https://minecraft.fandom.com/wiki/Glowing) using Figura (you can only approximate it), you *can* give it an emission texture.
 
 To make an emissive texture, set the name of a texture to `%texturename%_e` where `%texturename%` is the name of a non-emissive texture. After that, erase parts of the texture that you do not want to glow.
 
@@ -134,14 +136,14 @@ If you would like even more control, check the list of vanilla model objects by 
 
 Figura actually provides a documentation command in-game! Just type `/figura docs` and let auto-completion help you find your code inquiries.
 
-Instead of launching the game every time you want to get a result, you can type `/docs` into the [#bot-junk](https://discord.com/channels/805969743466332191/824741434078396468) channel on the [Discord server](https://discord.gg/ekHGHcH8Af). Although it may be clunkier, it works well in support scenarios.
+~~Instead of launching the game every time you want to get a result, you can type `/docs` into the [#bot-junk](https://discord.com/channels/805969743466332191/824741434078396468) channel on the [Discord server](https://discord.gg/ekHGHcH8Af). Although it may be clunkier, it works well in support scenarios.~~ Prisma no longer has the /docs command and instead searches Figs' documentation.
 
-If you would like something that implements directly into Visual Studio Code, Manuel_ provides a Figura extension with built-in documentation. You can download it on the VSC marketplace using the built-in extensions tab or by using [this link](https://marketplace.visualstudio.com/items?itemName=Manuel-Underscore.figura).
+If you would like something that implements directly into Visual Studio Code, Manuel_ provides a Figura extension with built-in documentation. You can download it on the VSC marketplace using the built-in extensions tab or by using [this link](https://marketplace.visualstudio.com/items?itemName=Manuel-Underscore.figura). 
 
 A community member with the name applejuice has an online webpage that delivers the content from the in-game documentation and places it in an easier to read format. You can find it at <https://applejuiceyy.github.io/figs/>
 
 ### How can I get support?
 
-You can ask a question at any time through the [#❔️丨figura-hellp Forum](https://discord.com/channels/805969743466332191/1019675294237466734) (yes, it is spelt hellp) in the [Discord server](https://discord.gg/ekHGHcH8Af). People are usually on stand-by and can help you with any issue you have.
+You can ask a question at any time through the [#❔️丨hellp Forum](https://discord.com/channels/1129805506354085959/1129811341620809870) (yes, it is spelt hellp) in the [Discord server](https://discord.gg/figuramc). People are usually on stand-by and can help you with any issue you have.
 
-Alternatively, you can request an avatar, script, model, or texture using the [#💌丨commissioners](https://discord.com/channels/805969743466332191/1076400440465432676) channel. People offer their services in this channel either out of their own free will or out of monetary gain, so please be kind.
+Alternatively, you can request an avatar, script, model, or texture using the [#💌丨commissioners](https://discord.com/channels/1129805506354085959/1129953370673786970) channel. People offer their services in this channel either out of their own free will or out of monetary gain, so please be kind.
