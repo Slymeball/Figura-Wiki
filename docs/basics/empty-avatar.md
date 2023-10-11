@@ -67,7 +67,7 @@ Go into this folder and create a new text file. Rename it to `avatar.json` and m
 }
 ```
 
-###### Source provided by Fran, thanks!
+###### Source provided by An Unknown Source, thanks!
 {: .no_toc }
 
 Name and authors will show up in the Figura menu, color will change the color of your mark, and version doesn't do anything as of this page's creation.
